@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonarQubeExample", "SonarQubeExample.csproj", "{B5F05EE5-A952-4D8E-856E-E6A17C3BDA1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F05EE5-A952-4D8E-856E-E6A17C3BDA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F05EE5-A952-4D8E-856E-E6A17C3BDA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F05EE5-A952-4D8E-856E-E6A17C3BDA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F05EE5-A952-4D8E-856E-E6A17C3BDA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD4685F7-060B-4DA4-B55C-30F4B623D1C3}
+	EndGlobalSection
+EndGlobal
